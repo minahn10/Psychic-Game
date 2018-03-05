@@ -1,0 +1,20 @@
+h1 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: silver;
+
+}
+
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkgray;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body {
+  background: url("../images/pokemon.jpg");
+}
